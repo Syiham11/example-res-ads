@@ -1,0 +1,42 @@
+{
+    "category": "Pakaian dan aksesoris",
+    "client_id": 8,
+    "end_date": "2023-04-13",
+    "end_time": "23:00",
+    "name": "tes ads",
+    "placement": {
+        "mobile": [
+            {
+                "title": "new",
+                "description": "desct",
+                "image": "https://assets-cdn.eventori.id//public/ads/1680796594-photo1645170860.jpeg",
+                "size": "300x200"
+            },
+            {
+                "title": "new",
+                "description": "desct",
+                "image": "https://assets-cdn.eventori.id//public/ads/1680797403-Unilever-Logo.png",
+                "size": "340x425"
+            }
+        ],
+        "desktop": [
+            {
+                "title": "judu",
+                "description": "des",
+                "image": "https://assets-cdn.eventori.id//public/ads/1680796538-ilustrasi-login.png",
+                "size": "728x90"
+            },
+            {
+                "title": "judu",
+                "description": "des",
+                "image": "https://assets-cdn.eventori.id//public/ads/1680796594-photo1645170860.jpeg",
+                "size": "970x250"
+            }
+        ]
+    },
+    "start_date": "2023-04-06",
+    "start_time": "01:00",
+    "target_url": "http://abc.com",
+    "mobile_active": true,
+    "desktop_active": true
+}
