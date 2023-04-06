@@ -10,27 +10,27 @@
                 "main_apps":[
                     {
                         "title": "judu",
-                        "description": "des",
+                        "target_url": "http://abc.com",
                         "image": "https://assets-cdn.eventori.id//public/ads/1680796538-ilustrasi-login.png",
                         "size": "728x90"
                     },
-                    {
+                   {
                         "title": "judu",
-                        "description": "des",
-                        "image": "https://assets-cdn.eventori.id//public/ads/1680796594-photo1645170860.jpeg",
-                        "size": "970x250"
-                    }
+                        "target_url": "http://abc.com",
+                        "image": "https://assets-cdn.eventori.id//public/ads/1680796538-ilustrasi-login.png",
+                        "size": "728x90"
+                    },
                 ],
                 "home_tnv":[
                     {
                         "title": "judu",
-                        "description": "des",
+                        "target_url": "http://abc.com",
                         "image": "https://assets-cdn.eventori.id//public/ads/1680796538-ilustrasi-login.png",
                         "size": "728x90"
                     },
                     {
                         "title": "judu",
-                        "description": "des",
+                        "target_url": "http://abc.com",
                         "image": "https://assets-cdn.eventori.id//public/ads/1680796594-photo1645170860.jpeg",
                         "size": "970x250"
                     }
@@ -42,29 +42,23 @@
                 "main_web":[
                     {
                         "title": "judu",
-                        "description": "des",
+                        "target_url": "http://abc.com",
                         "image": "https://assets-cdn.eventori.id//public/ads/1680796538-ilustrasi-login.png",
                         "size": "728x90"
                     },
                     {
                         "title": "judu",
-                        "description": "des",
-                        "image": "https://assets-cdn.eventori.id//public/ads/1680796594-photo1645170860.jpeg",
-                        "size": "970x250"
-                    }
+                        "target_url": "http://abc.com",
+                        "image": "https://assets-cdn.eventori.id//public/ads/1680796538-ilustrasi-login.png",
+                        "size": "728x90"
+                    },
                 ],
                 "home_tnv":[
-                    {
+                     {
                         "title": "judu",
-                        "description": "des",
+                        "target_url": "http://abc.com",
                         "image": "https://assets-cdn.eventori.id//public/ads/1680796538-ilustrasi-login.png",
                         "size": "728x90"
-                    },
-                    {
-                        "title": "judu",
-                        "description": "des",
-                        "image": "https://assets-cdn.eventori.id//public/ads/1680796594-photo1645170860.jpeg",
-                        "size": "970x250"
                     }
                 ]
             }
