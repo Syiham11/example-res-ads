@@ -10,14 +10,12 @@
                 "title": "new",
                 "description": "desct",
                 "image": "https://assets-cdn.eventori.id//public/ads/1680796594-photo1645170860.jpeg",
-                "target_url": "http://abc.com",
                 "size": "300x200"
             },
             {
                 "title": "new",
                 "description": "desct",
                 "image": "https://assets-cdn.eventori.id//public/ads/1680797403-Unilever-Logo.png",
-                 "target_url": "http://abc.com",
                 "size": "340x425"
             }
         ],
@@ -26,20 +24,19 @@
                 "title": "judu",
                 "description": "des",
                 "image": "https://assets-cdn.eventori.id//public/ads/1680796538-ilustrasi-login.png",
-                "target_url": "http://abc.com",
                 "size": "728x90"
             },
             {
                 "title": "judu",
                 "description": "des",
                 "image": "https://assets-cdn.eventori.id//public/ads/1680796594-photo1645170860.jpeg",
-                "target_url": "http://abc.com",
                 "size": "970x250"
             }
         ]
     },
     "start_date": "2023-04-06",
     "start_time": "01:00",
+    "target_url": "http://abc.com",
     "mobile_active": true,
     "desktop_active": true
 }
